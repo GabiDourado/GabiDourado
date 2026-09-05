@@ -14,7 +14,7 @@
 
 `developer` • `computer science student` • `robotics enthusiast`
 
-<img src="https://komarev.com/ghpvc/?username=GabiDourado&color=ff69b4&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=GabiDourado&color=ff69b4&style=flat-square&label=♡+VISITAS">
 
 </div>
 
