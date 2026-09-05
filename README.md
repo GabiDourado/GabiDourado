@@ -5,11 +5,10 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-`♡ readme em produção... please wait! ♡`
   <!-- ✦ HEADER / GIF ✦ -->
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120">
-
+`♡ readme em produção... please wait! ♡`
 # ✦ Hello, World! ✦
 
 ### Hi! I'm **Gabi** 💗
